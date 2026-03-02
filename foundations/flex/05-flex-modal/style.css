@@ -108,7 +108,7 @@ button.cancel {
 
 .close-button {
   position: absolute;
-  top: 10px;
+  top: 20px;
   right: 10px;
   background: #eee;
   border-radius: 50%;
