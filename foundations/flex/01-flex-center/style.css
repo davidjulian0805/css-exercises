@@ -10,6 +10,7 @@
 }
 
 .box {
+  text-align: center;
   background: palevioletred;
   font-weight: bold;
   border: 6px solid maroon;
